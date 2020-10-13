@@ -2,7 +2,7 @@
 
 <img src="media/final.gif" alt="sample of project" width="400"/>
 
-This Processing sketch generates maps (for use in games, Dungeons & Dragons campaigns, etc.) from Voronoi tessellations. This was a really interesting project to work on!
+An engine for procedural generation of maps (for use in games, Dungeons & Dragons campaigns, etc.) written in Java using Voronoi tessellations.
 
 ### INSTRUCTIONS:
 Click on the map to draw a rough shape;
