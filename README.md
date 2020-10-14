@@ -50,7 +50,7 @@ We can now add more variation and character to our maps. First, I introduced a b
 
 In the above examples, you can still see the distinct Voronoi cells somewhat since I mapped pixel colors to their distance from the closest point in the Voronoi array. I wanted to change this so that the textures would more closely resemble actual terrain. To quickly implement this feature, I used Perlin noise, which is a noise function built into Processing that is very useful for generating textures.
 
-<img src="media/media/perlin-noise.png" alt="textures using Perlin noise" width="400"/>
+<img src="media/perlin-noise.png" alt="textures using Perlin noise" width="400"/>
 
 ### 5. Manhattan Distance Calculation
 
